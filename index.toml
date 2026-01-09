@@ -21,6 +21,10 @@ file = "config/biomesoplenty/biome_toggles.json"
 hash = "1204c73b832b07d81588def230161d03f0385cadfdc670f490fab343f54ef380"
 
 [[files]]
+file = "config/default_files/server.properties"
+hash = "12d09f70c2cc4262e758abc82537beee204b9d1ef0f83445d92663d8687ffc9b"
+
+[[files]]
 file = "config/fml.toml"
 hash = "c2e9dc6af912fa2512953fdfeccf4b5f9554e6aebdc30368ba4e4c649b6c13fd"
 
@@ -35,6 +39,10 @@ hash = "61e1c0b0fd38d919c5ba0368e80e6d7db80ee36d9121623b3df492dce1167475"
 [[files]]
 file = "config/modernfix-mixins.properties"
 hash = "c136d858abc7e55a4a0690615c1f9996098aba428139790ce2bf5ab51fcf9817"
+
+[[files]]
+file = "config/server-splashes.txt"
+hash = "52d65c636535edb65ec6c3360d2fa7e9a5e4d257cfae3451aa299ceb3a35a4e6"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
@@ -104,6 +112,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "67456458bd27dd28509712b1d257f985ccc93003351c0bc4c23ebc9845a241a3"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
 metafile = true
 
 [[files]]
