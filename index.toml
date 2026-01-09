@@ -22,7 +22,7 @@ hash = "1204c73b832b07d81588def230161d03f0385cadfdc670f490fab343f54ef380"
 
 [[files]]
 file = "config/default_files/server.properties"
-hash = "12d09f70c2cc4262e758abc82537beee204b9d1ef0f83445d92663d8687ffc9b"
+hash = "95d25d490a1a868a6b8bc0992c1eef7ff355ba581d8a0d5f9939e6c488c59aab"
 
 [[files]]
 file = "config/fml.toml"
@@ -42,7 +42,7 @@ hash = "c136d858abc7e55a4a0690615c1f9996098aba428139790ce2bf5ab51fcf9817"
 
 [[files]]
 file = "config/server-splashes.txt"
-hash = "52d65c636535edb65ec6c3360d2fa7e9a5e4d257cfae3451aa299ceb3a35a4e6"
+hash = "478be7b0aac6c4acd7fd846aaf366999e962e28eeb0b1631a833d5c5814037bd"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
