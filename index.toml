@@ -21,6 +21,10 @@ file = "config/biomesoplenty/biome_toggles.json"
 hash = "1204c73b832b07d81588def230161d03f0385cadfdc670f490fab343f54ef380"
 
 [[files]]
+file = "config/default_files/server-icon.png"
+hash = "9e42bc90ce4dcea8b54aab719b95ef862028d4e8a5d97220e91e8a13c388ce01"
+
+[[files]]
 file = "config/default_files/server.properties"
 hash = "95d25d490a1a868a6b8bc0992c1eef7ff355ba581d8a0d5f9939e6c488c59aab"
 
@@ -42,7 +46,7 @@ hash = "c136d858abc7e55a4a0690615c1f9996098aba428139790ce2bf5ab51fcf9817"
 
 [[files]]
 file = "config/server-splashes.txt"
-hash = "478be7b0aac6c4acd7fd846aaf366999e962e28eeb0b1631a833d5c5814037bd"
+hash = "ade7e3aec06c2b3c0e2966151d0cd8bf6405e2171757b0dc6e369772a4e8ae4a"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
