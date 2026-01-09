@@ -1,0 +1,15 @@
+name = "motdextender9000"
+filename = "motdextender9000-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://github.com/ReplaceThisNameLater/motdextender9000/releases/download/1.0.1/motdextender9000-1.0.1.jar"
+hash-format = "sha256"
+hash = "e899bb8821ddc7dc71190bbaadb9ad5ce60fb813635ce1d6a32c51eb9cd1507e"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "ReplaceThisNameLater/motdextender9000"
+tag = "1.0.1"

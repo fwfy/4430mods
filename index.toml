@@ -1,0 +1,162 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/aether-client.toml"
+hash = "5f86c7d27a7576e13924af41a478730fc5ac1a9a0bf3b6b0ed71307c486c3ae8"
+
+[[files]]
+file = "config/aether-common.toml"
+hash = "920823549f789967bd6e8ce93fe1d12d7783e10d6035bd55825e62407ff3a45b"
+
+[[files]]
+file = "config/aether-server.toml"
+hash = "7f59fe620227c4e1f878b29911b708689cf0a820802b871b3f6544ee560f1fa9"
+
+[[files]]
+file = "config/aether-startup.toml"
+hash = "3e0c6f3c7c02fa1a08015b944fc3a350540a256c99930a1865cca0fb91ae21c0"
+
+[[files]]
+file = "config/biomesoplenty/biome_toggles.json"
+hash = "1204c73b832b07d81588def230161d03f0385cadfdc670f490fab343f54ef380"
+
+[[files]]
+file = "config/fml.toml"
+hash = "c2e9dc6af912fa2512953fdfeccf4b5f9554e6aebdc30368ba4e4c649b6c13fd"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "445a65bafc2ca407a91ce47f305d64c3c859cf103ed9ca29732c897276b53637"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "61e1c0b0fd38d919c5ba0368e80e6d7db80ee36d9121623b3df492dce1167475"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "c136d858abc7e55a4a0690615c1f9996098aba428139790ce2bf5ab51fcf9817"
+
+[[files]]
+file = "config/sophisticatedbackpacks-common.toml"
+hash = "2100d80af7e8e541c3a0e97dbe69c42ce29b963c4d410e93f989da43ae8f29a4"
+
+[[files]]
+file = "config/sophisticatedbackpacks-server.toml"
+hash = "e9bcf52f09cacd1e3d9b072bb620e1ee455351a21ea892fed2c8482b6e29743b"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+hash = "7e8e972645572d54c255fdb878e76cfc61ca46dbbc48a3d4d30117da24ee58a9"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "9c809e5dc50075f1562ac808e092e1d7521f7679f99a525d9c0492baf74cc272"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "be7330bfe1a41b7cbf3578bef78e5542bccdea1110cf66adb545e564aab23193"
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "9b1610cd28c49d34ce2fd760d208fb569f0e20055fee4c81ed4da6489b340312"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
+metafile = true
+
+[[files]]
+file = "mods/decent-discord-bridge.pw.toml"
+hash = "103eee9afa98e895ae869a1482a39dc61fd569b3a556d36b4d35c740cda772e3"
+metafile = true
+
+[[files]]
+file = "mods/default-files.pw.toml"
+hash = "55078861f033521e0b31923e0ed415f44a48600718e806b0aeaac4bd3df6733c"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "44abae510395f12f9ea97b8296b2f72e25f18b9f3f2cc0ee42c0d9afd73fe0b3"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "415ae259d7d6c92717710d6f80494d9f3c0884c6a2a35f993ad31e287f64632f"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
+metafile = true
+
+[[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "67456458bd27dd28509712b1d257f985ccc93003351c0bc4c23ebc9845a241a3"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "52019f01292cb860fa135485f941fff42f97910267bf122f2f797e31109bb93f"
+metafile = true
+
+[[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "f4db358ab5081831cb84f4d81338b21f0600675ab25b13f8824deecc82d2acc8"
+metafile = true
+
+[[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+hash = "44b52fc7e10142b0f514c66dbc0c74a0feae35ee329c37454e08aa1187d1d60e"
+metafile = true
+
+[[files]]
+file = "mods/motdextender9000.pw.toml"
+hash = "9070e718494a47c80e4d23df6660f3a53cdaef417c902556ccc5bf73548eb68a"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
+metafile = true
+
+[[files]]
+file = "mods/ribbits.pw.toml"
+hash = "6a598c073aabc968d8ee736141d238c517e13662f3de0feb81796cb9c0d6f4f0"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "adc69a30b7ddf030a78f5b7994b6ded381626bc03de5a74566a7e24c98ebf139"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "63f25e4206eb8b5b77ca79a443941b31ef5085783fdf1af8255e8406bb7bba38"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "473b998b1acd6c14874f9db9ae5986b1de92820456de2ff57ad4f8b2d64ccfff"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
+metafile = true
