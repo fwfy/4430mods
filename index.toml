@@ -29,6 +29,10 @@ file = "config/default_files/server.properties"
 hash = "95d25d490a1a868a6b8bc0992c1eef7ff355ba581d8a0d5f9939e6c488c59aab"
 
 [[files]]
+file = "config/default_files/servers.dat"
+hash = "cf66502d788633ff5ce5c84c4000a5cbf0800932a7c009cf92598f31104cf821"
+
+[[files]]
 file = "config/fml.toml"
 hash = "c2e9dc6af912fa2512953fdfeccf4b5f9554e6aebdc30368ba4e4c649b6c13fd"
 
@@ -176,6 +180,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "c743ea0e4f9021ef5f2fd093006e04031da11b933a0a54d86ef77bc13f4965cb"
 metafile = true
 
 [[files]]
