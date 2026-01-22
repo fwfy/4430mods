@@ -73,6 +73,10 @@ file = "config/sophisticatedcore-common.toml"
 hash = "7e8e972645572d54c255fdb878e76cfc61ca46dbbc48a3d4d30117da24ee58a9"
 
 [[files]]
+file = "config/waystones-common.toml"
+hash = "e39d602f50207beececa00f611e309d059361db3643a4a01051f5e87010ccd80"
+
+[[files]]
 file = "config/xaerominimap-common.txt"
 hash = "9c809e5dc50075f1562ac808e092e1d7521f7679f99a525d9c0492baf74cc272"
 
@@ -88,6 +92,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "547660bb17452fae6e46504c87eea9e75eeb50de440495cadcee9ad49c6d131d"
 metafile = true
 
 [[files]]
@@ -213,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "c743ea0e4f9021ef5f2fd093006e04031da11b933a0a54d86ef77bc13f4965cb"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "c02af11f10e1f939de401d5cfe250f92c623c034adf90220df0be6e23f202621"
 metafile = true
 
 [[files]]
