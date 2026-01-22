@@ -37,6 +37,14 @@ file = "config/fml.toml"
 hash = "c2e9dc6af912fa2512953fdfeccf4b5f9554e6aebdc30368ba4e4c649b6c13fd"
 
 [[files]]
+file = "config/irons_spellbooks-client.toml"
+hash = "52e9446f8cb7d778a86aa1eb632610de982f6e00d98eb9097e4ef3018c3cea15"
+
+[[files]]
+file = "config/irons_spellbooks-server.toml"
+hash = "b3ede727a5c3d77ad0b37669e7a593c95015416b185ac4929e8b540398700a1f"
+
+[[files]]
 file = "config/jade/jade.json"
 hash = "445a65bafc2ca407a91ce47f305d64c3c859cf103ed9ca29732c897276b53637"
 
@@ -93,6 +101,11 @@ hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
 file = "mods/decent-discord-bridge.pw.toml"
 hash = "103eee9afa98e895ae869a1482a39dc61fd569b3a556d36b4d35c740cda772e3"
 metafile = true
@@ -120,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "67456458bd27dd28509712b1d257f985ccc93003351c0bc4c23ebc9845a241a3"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "5bf73ed2340abc1cc8b1012935ad3cbad15c6bb7e2213324626c68dbe2798475"
 metafile = true
 
 [[files]]
@@ -160,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
 
 [[files]]

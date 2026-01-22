@@ -1,0 +1,7 @@
+[UI]
+[UI.SpellBar]
+spellBarDisplay = "Contextual"
+
+[Renderers]
+replaceGhastFireballs = false
+replaceBlazeFireballs = false
