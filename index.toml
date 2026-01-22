@@ -161,6 +161,11 @@ hash = "52019f01292cb860fa135485f941fff42f97910267bf122f2f797e31109bb93f"
 metafile = true
 
 [[files]]
+file = "mods/mcdonalds-structure.pw.toml"
+hash = "c34611496de00d4b9526d5b4288135560d1f84e26d9f90d902563e094d32d533"
+metafile = true
+
+[[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
 hash = "f4db358ab5081831cb84f4d81338b21f0600675ab25b13f8824deecc82d2acc8"
 metafile = true

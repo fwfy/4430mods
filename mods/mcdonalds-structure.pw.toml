@@ -1,0 +1,13 @@
+name = "McDonald’s Structure"
+filename = "mcdonalds-structure-1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Uyreudbm/versions/1C3TVnMp/mcdonalds-structure-1.4.jar"
+hash-format = "sha512"
+hash = "2183e4f87ab5c535e2a6c047a4154a6f08df5072b7d1cd8454cf31440d0c2b4d640926e8e7f0cd7a3d6139aa00874cc2804f10ad1e19862ddfcf1beb28d35e59"
+
+[update]
+[update.modrinth]
+mod-id = "Uyreudbm"
+version = "1C3TVnMp"
