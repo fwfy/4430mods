@@ -1,2 +1,5 @@
 [general]
 allowedVisibilities = ["GLOBAL"]
+
+[teleports]
+transportPets = "ENABLED"
