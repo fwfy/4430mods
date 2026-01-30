@@ -2,3 +2,4 @@
 defaultConfigPath = "config"
 disableConfigWatcher = true
 versionCheck = false
+earlyWindowSquir = true
