@@ -3,3 +3,4 @@ allowedVisibilities = ["GLOBAL"]
 
 [teleports]
 transportPets = "ENABLED"
+entityDenyList = []
