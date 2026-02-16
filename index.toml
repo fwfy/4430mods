@@ -215,6 +215,11 @@ hash = "63f25e4206eb8b5b77ca79a443941b31ef5085783fdf1af8255e8406bb7bba38"
 metafile = true
 
 [[files]]
+file = "mods/target-dummy.pw.toml"
+hash = "85cb36f78213bb439937fd040e92a181a0bd4b1b37639af6ec30a8907de44164"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
