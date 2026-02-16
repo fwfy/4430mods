@@ -125,6 +125,11 @@ hash = "55078861f033521e0b31923e0ed415f44a48600718e806b0aeaac4bd3df6733c"
 metafile = true
 
 [[files]]
+file = "mods/dmr.pw.toml"
+hash = "f0849fc220ab38735f36e04cfeb3bebed09df20194199bcb542cfbf93a240a6e"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "44abae510395f12f9ea97b8296b2f72e25f18b9f3f2cc0ee42c0d9afd73fe0b3"
 metafile = true
